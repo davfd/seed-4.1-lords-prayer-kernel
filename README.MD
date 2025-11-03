@@ -186,7 +186,8 @@ ls harmbench_*.json
 
 📚 Citation
 If you use SEED 4.1 in your research:
-bibtex@software{seed41_2025,
+
+@software{seed41_2025,
   title={SEED 4.1: The Lord's Prayer Kernel},
   author={Foundation Alignment Research},
   year={2025},
@@ -204,3 +205,4 @@ Open source for advancing AI safety
 
 📄 License
 MIT License - See LICENSE file for details
+
